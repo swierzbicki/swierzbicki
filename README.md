@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### 💼 Contributing to:
+
+* [ngx-mat-select-search](https://github.com/bithost-gmbh/ngx-mat-select-search): Angular component providing an input field for searching / filtering MatSelect options of the Angular Material library. 
+
 <!--
 **swierzbicki/swierzbicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
